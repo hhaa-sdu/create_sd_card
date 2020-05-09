@@ -278,15 +278,7 @@ function install_yocto
 #	done
 
         cp ${YOCTO_IMGS_PATH}/imx6ull-var-dart-6ulcustomboard-emmc-sd-card.dtb      ${P1_MOUNT_DIR}/
-        cp ${YOCTO_IMGS_PATH}/imx6ull-var-dart-6ulcustomboard-emmc-wifi.dtb      ${P1_MOUNT_DIR}/
-		cp ${YOCTO_IMGS_PATH}/imx6ull-var-dart-6ulcustomboard-nand-sd-card.dtb      ${P1_MOUNT_DIR}/
-        cp ${YOCTO_IMGS_PATH}/imx6ull-var-dart-6ulcustomboard-nand-wifi.dtb      ${P1_MOUNT_DIR}/
- 
-        cp ${YOCTO_IMGS_PATH}/imx6ul-var-dart-6ulcustomboard-emmc-sd-card.dtb      ${P1_MOUNT_DIR}/
-        cp ${YOCTO_IMGS_PATH}/imx6ul-var-dart-6ulcustomboard-emmc-wifi.dtb      ${P1_MOUNT_DIR}/
-        cp ${YOCTO_IMGS_PATH}/imx6ul-var-dart-6ulcustomboard-nand-sd-card.dtb      ${P1_MOUNT_DIR}/
-        cp ${YOCTO_IMGS_PATH}/imx6ul-var-dart-6ulcustomboard-nand-wifi.dtb      ${P1_MOUNT_DIR}/
-
+       
 
 
 
